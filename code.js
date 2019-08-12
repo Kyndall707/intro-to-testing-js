@@ -5,10 +5,10 @@ function helloWorld() {
 
 // sayHello function
 function sayHello() {
-    return "Hello, ";
+    return "Hello, Pat"
 }
 
-function helloSay(Alex) {
-    return "Hello, Alex"
-}
+// function helloSay(Alex) {
+//     return "Hello, Alex"
+// }
 
